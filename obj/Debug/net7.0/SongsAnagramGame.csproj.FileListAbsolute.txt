@@ -1,0 +1,15 @@
+C:\Users\beatr\Documents\CSharp\CSharp-projects\SongsAnagramGame\bin\Debug\net7.0\SongsAnagramGame.exe
+C:\Users\beatr\Documents\CSharp\CSharp-projects\SongsAnagramGame\bin\Debug\net7.0\SongsAnagramGame.deps.json
+C:\Users\beatr\Documents\CSharp\CSharp-projects\SongsAnagramGame\bin\Debug\net7.0\SongsAnagramGame.runtimeconfig.json
+C:\Users\beatr\Documents\CSharp\CSharp-projects\SongsAnagramGame\bin\Debug\net7.0\SongsAnagramGame.dll
+C:\Users\beatr\Documents\CSharp\CSharp-projects\SongsAnagramGame\bin\Debug\net7.0\SongsAnagramGame.pdb
+C:\Users\beatr\Documents\CSharp\CSharp-projects\SongsAnagramGame\obj\Debug\net7.0\SongsAnagramGame.csproj.AssemblyReference.cache
+C:\Users\beatr\Documents\CSharp\CSharp-projects\SongsAnagramGame\obj\Debug\net7.0\SongsAnagramGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beatr\Documents\CSharp\CSharp-projects\SongsAnagramGame\obj\Debug\net7.0\SongsAnagramGame.AssemblyInfoInputs.cache
+C:\Users\beatr\Documents\CSharp\CSharp-projects\SongsAnagramGame\obj\Debug\net7.0\SongsAnagramGame.AssemblyInfo.cs
+C:\Users\beatr\Documents\CSharp\CSharp-projects\SongsAnagramGame\obj\Debug\net7.0\SongsAnagramGame.csproj.CoreCompileInputs.cache
+C:\Users\beatr\Documents\CSharp\CSharp-projects\SongsAnagramGame\obj\Debug\net7.0\SongsAnagramGame.dll
+C:\Users\beatr\Documents\CSharp\CSharp-projects\SongsAnagramGame\obj\Debug\net7.0\refint\SongsAnagramGame.dll
+C:\Users\beatr\Documents\CSharp\CSharp-projects\SongsAnagramGame\obj\Debug\net7.0\SongsAnagramGame.pdb
+C:\Users\beatr\Documents\CSharp\CSharp-projects\SongsAnagramGame\obj\Debug\net7.0\SongsAnagramGame.genruntimeconfig.cache
+C:\Users\beatr\Documents\CSharp\CSharp-projects\SongsAnagramGame\obj\Debug\net7.0\ref\SongsAnagramGame.dll
