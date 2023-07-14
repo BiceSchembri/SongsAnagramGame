@@ -25,7 +25,6 @@ namespace AnagramGameApp
 
         public void StartGame()
         {
-            Console.WriteLine("Welcome to the White Stripes Anagram Game!");
             Console.WriteLine($"Score: {score}");
 
             bool playAgain = true;
@@ -36,7 +35,7 @@ namespace AnagramGameApp
                 string anagram = GenerateAnagram(selectedWord);
 
                 Console.WriteLine("Guess the word:");
-                Console.WriteLine($"Anagram: {anagram}");
+                Console.WriteLine(anagram);
                 string guess = ReadUserInputToLower();
                 int attempts = 1;
                 bool hintGiven = false;
@@ -44,6 +43,8 @@ namespace AnagramGameApp
                 while (guess != selectedWord && attempts < 3)
                 {
                     Console.WriteLine("Oops! That's incorrect.");
+                    Console.WriteLine($"Remaining attempts: {3 - attempts}");
+
 
                     if (!hintGiven)
                     {
@@ -136,10 +137,12 @@ namespace AnagramGameApp
 
             if (arrayChoice == "1")
             {
+                Console.WriteLine("You chose The White Stripes! Starting the Anagram Game.");
                 anagramGame = new AnagramGame(whiteStripesWords);
             }
             else if (arrayChoice == "2")
             {
+                Console.WriteLine("You chose Nick Cave! Starting the Anagram Game.");
                 anagramGame = new AnagramGame(nickCaveWords);
             }
             else
