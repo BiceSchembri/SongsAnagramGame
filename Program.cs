@@ -125,8 +125,28 @@ namespace AnagramGameApp
     {
         public static void Main()
         {
-            List<string> words = new() { "acorn", "aluminum", "apple", "biscuit", "blossom", "button", "denial", "dirty", "elephant", "faith", "finger", "forever", "friend", "ghost", "gentleman", "ground", "hello", "hotel", "infirmary", "little", "lonely", "martyr", "medicine", "nation", "offend", "operator", "orchid", "pocket", "pretty", "protector", "sister", "special", "stripe", "thump", "truth", "twist", "union", "white" };
-            IAnagramGame anagramGame = new AnagramGame(words);
+            List<string> whiteStripesWords = new() { "acorn", "aluminum", "apple", "biscuit", "blossom", "button", "denial", "dirty", "elephant", "faith", "finger", "forever", "friend", "ghost", "gentleman", "ground", "hello", "hotel", "infirmary", "little", "lonely", "martyr", "medicine", "nation", "offend", "operator", "orchid", "pocket", "pretty", "protector", "sister", "special", "stripe", "thump", "truth", "twist", "union", "white" };
+            List<string> nickCaveWords = new() { "breathless", "beautiful", "people", "nowhere", "black", "world", "bright", "horse", "children", "jubilee", "boson", "weeping", "prayer", "idiot", "cannibal", "fable" };
+
+            Console.WriteLine("Choose word array: 1 for White Stripes, 2 for Nick Cave");
+
+            string? arrayChoice = Console.ReadLine();
+
+            IAnagramGame anagramGame;
+
+            if (arrayChoice == "1")
+            {
+                anagramGame = new AnagramGame(whiteStripesWords);
+            }
+            else if (arrayChoice == "2")
+            {
+                anagramGame = new AnagramGame(nickCaveWords);
+            }
+            else
+            {
+                Console.WriteLine("Invalid choice. Exiting game.");
+                return;
+            }
             anagramGame.StartGame();
         }
     }

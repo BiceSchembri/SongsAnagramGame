@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\beatr\\Documents\\CSharp\\CSharp-projects\\SongsAnagramGame\\SongsAnagramGame.csproj": {}
+    "C:\\Users\\beatr\\Documents\\CSharp\\CSharp-projects\\SongsAnagramGame\\SongsAnagramGame.csproj": {}
   },
   "projects": {
-    "c:\\Users\\beatr\\Documents\\CSharp\\CSharp-projects\\SongsAnagramGame\\SongsAnagramGame.csproj": {
+    "C:\\Users\\beatr\\Documents\\CSharp\\CSharp-projects\\SongsAnagramGame\\SongsAnagramGame.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\beatr\\Documents\\CSharp\\CSharp-projects\\SongsAnagramGame\\SongsAnagramGame.csproj",
+        "projectUniqueName": "C:\\Users\\beatr\\Documents\\CSharp\\CSharp-projects\\SongsAnagramGame\\SongsAnagramGame.csproj",
         "projectName": "SongsAnagramGame",
-        "projectPath": "c:\\Users\\beatr\\Documents\\CSharp\\CSharp-projects\\SongsAnagramGame\\SongsAnagramGame.csproj",
+        "projectPath": "C:\\Users\\beatr\\Documents\\CSharp\\CSharp-projects\\SongsAnagramGame\\SongsAnagramGame.csproj",
         "packagesPath": "C:\\Users\\beatr\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\beatr\\Documents\\CSharp\\CSharp-projects\\SongsAnagramGame\\obj\\",
+        "outputPath": "C:\\Users\\beatr\\Documents\\CSharp\\CSharp-projects\\SongsAnagramGame\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\beatr\\AppData\\Roaming\\NuGet\\NuGet.Config",
